@@ -15,7 +15,7 @@
 
 <li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation</li>
 
-<li> <a href="https://github.com/Techtonique/esgtoolkit">esgtoolkit for R</a> and <a href="https://github.com/Techtonique/esgtoolkit_python">esgtoolkit for Python</a>  A toolkit for Monte Carlo Simulations in Finance, Economics, Insurance, Physics</li>
+<li> <a href="https://github.com/Techtonique/esgtoolkit">esgtoolkit for R</a> and <a href="https://github.com/Techtonique/esgtoolkit_python">esgtoolkit for Python</a>  A toolkit for Monte Carlo Simulations in Finance, Economics, Insurance, Physics <img alt="Downloads" src="https://static.pepy.tech/badge/esgtoolkit" /> </li>
 
 <li> <a href="https://github.com/Techtonique/ahead_python">ahead for Python</a>, <a href="https://github.com/Techtonique/ahead">ahead for R</a> and <a href="https://github.com/Techtonique/Ahead.jl">ahead for Julia</a> Univariate and Multivariate time series forecasting &nbsp; <a href="https://pepy.tech/project/ahead"><img alt="Downloads" src="https://static.pepy.tech/badge/ahead" /></a> </li>
 
