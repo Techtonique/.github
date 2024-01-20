@@ -41,7 +41,7 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/esgtoolkit" /> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/ahead_python">ahead for Python</a>, <a href="https://github.com/Techtonique/ahead">ahead for R</a> and <a href="https://github.com/Techtonique/Ahead.jl">ahead for Julia</a> Univariate and Multivariate time series forecasting &nbsp; 
+<li> <a href="https://github.com/Techtonique/ahead_python">ahead for Python</a>, <a href="https://github.com/Techtonique/ahead">ahead for R</a> and <a href="https://github.com/Techtonique/Ahead.jl">ahead for Julia</a> Univariate and Multivariate time series forecasting with uncertainty quantification (including simulation) &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/ahead"><img alt="Downloads" src="https://static.pepy.tech/badge/ahead" /></a> </li>
