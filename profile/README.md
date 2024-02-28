@@ -26,7 +26,7 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/the-teller" /></a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/GPopt">GPopt</a> Bayesian optimization using Gaussian Process Regression &nbsp; 
+<li> <a href="https://github.com/Techtonique/GPopt">GPopt</a> Bayesian optimization using Gaussian Process Regression (useful for Machine learning hyperparameter tuning) &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/gpopt"><img alt="Downloads" src="https://static.pepy.tech/badge/gpopt" /></a> </li>
