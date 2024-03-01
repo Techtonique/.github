@@ -8,7 +8,7 @@
   <a href="https://pepy.tech/project/nnetsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/nnetsauce" /></a> <a href="https://anaconda.org/conda-forge/nnetsauce"> <img src="https://anaconda.org/conda-forge/nnetsauce/badges/downloads.svg" /> </a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of [LSBoost](https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares). Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
+<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/mlsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/mlsauce" /></a> <a href="https://anaconda.org/conda-forge/mlsauce"> <img src="https://anaconda.org/conda-forge/mlsauce/badges/downloads.svg" /> </a> </li>
@@ -32,6 +32,12 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/the-teller" /></a> </li>
   <br>
 
+<li> <a href="https://github.com/Techtonique/bcn_python">bcn for Python</a> and <a href="https://github.com/Techtonique/bcn">bcn for R</a> Boosted Configuration (neural) Networks for supervised learning. Read https://thierrymoudiki.github.io/blog/2022/07/21/r/misc/boosted-configuration-networks. &nbsp; 
+  <br>
+  <br>
+  <a href="https://pepy.tech/project/bcn"><img alt="Downloads" src="https://static.pepy.tech/badge/bcn" /></a></li>
+  <br>
+
 <li> <a href="https://github.com/Techtonique/querier">querier</a> A query language for Python Data Frames. Read https://thierrymoudiki.github.io/blog/2022/06/06/python/lsboost/explainableml/mlsauce/techtonique-workflow. &nbsp; <a href="https://pepy.tech/project/querier">
   <br>
   <br>
@@ -45,12 +51,6 @@
   <br>
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/esgtoolkit" /> </li>
-  <br>
-
-<li> <a href="https://github.com/Techtonique/bcn_python">bcn for Python</a> and <a href="https://github.com/Techtonique/bcn">bcn for R</a> Boosted Configuration (neural) Networks for supervised learning. Read https://thierrymoudiki.github.io/blog/2022/07/21/r/misc/boosted-configuration-networks. &nbsp; 
-  <br>
-  <br>
-  <a href="https://pepy.tech/project/bcn"><img alt="Downloads" src="https://static.pepy.tech/badge/bcn" /></a></li>
   <br>
 
 </ul>
