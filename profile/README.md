@@ -1,5 +1,15 @@
 # Techtonique 👋
 
+<br>
+<br>
+
+<p>
+<b>tech, statistics, machine learning, computer simulation, numerical optimization</b>
+</p>
+
+<br>
+<br>
+
 <ul>
 
 <li> <a href="https://github.com/Techtonique/nnetsauce">nnetsauce for Python</a> and <a href="https://github.com/Techtonique/nnetsauce_r">nnetsauce for R</a> Statistical/Machine Learning using Randomized and Quasi-Randomized (neural) networks. Read https://thierrymoudiki.github.io/blog/#QuasiRandomizedNN. &nbsp; 
