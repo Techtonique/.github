@@ -63,4 +63,10 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/esgtoolkit" /> </li>
   <br>
 
+<li> <a href="https://github.com/Techtonique/rtopy">rtopy</a> Calling R functions in Pythob. Read https://thierrymoudiki.github.io/blog/2024/03/04/python/r/rtopyintro.
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/rtopy" /> </li>
+  <br>
+
 </ul>
