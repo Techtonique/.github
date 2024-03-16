@@ -54,9 +54,6 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/querier" /></a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
-<br>
-
 <li> <a href="https://github.com/Techtonique/esgtoolkit">esgtoolkit for R</a> and <a href="https://github.com/Techtonique/esgtoolkit_python">esgtoolkit for Python</a>  A toolkit for Monte Carlo Simulations in Finance, Economics, Insurance, Physics. Read https://thierrymoudiki.github.io/blog/2023/12/18/r/python/esgtoolkit-python.
   <br>
   <br>
@@ -68,5 +65,8 @@
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/rtopy" /> </li>
   <br>
+
+<li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
+<br>
 
 </ul>
