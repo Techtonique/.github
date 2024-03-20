@@ -63,7 +63,7 @@
 <li> <a href="https://github.com/Techtonique/rtopy">rtopy</a> Calling R functions in Python. Read https://thierrymoudiki.github.io/blog/2024/03/04/python/r/rtopyintro.
   <br>
   <br>
-  <img alt="Downloads" src="https://static.pepy.tech/badge/rtopy" /> <a href="https://anaconda.org/conda-forge/rtopy"> <img src="https://anaconda.org/conda-forge/rtopy/badges/downloads.svg" /> </a> </li>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/rtopy" /> <a href="https://anaconda.org/conda-forge/rtopy"> <img src="https://img.shields.io/conda/dn/conda-forge/rtopy.svg" /> </a> </li>
   <br>
 
 <li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
