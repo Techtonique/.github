@@ -36,16 +36,16 @@
   <a href="https://pepy.tech/project/gpopt"><img alt="Downloads" src="https://static.pepy.tech/badge/gpopt" /></a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/teller">teller</a> Model-agnostic Statistical/Machine Learning explainability. Read https://thierrymoudiki.github.io/blog/2024/02/19/python/quasirandomizednn/explainableml/nnetsauce-dl-data. &nbsp; <a href="https://pepy.tech/project/the-teller">
-  <br>
-  <br>
-  <img alt="Downloads" src="https://static.pepy.tech/badge/the-teller" /></a> </li>
-  <br>
-
 <li> <a href="https://github.com/Techtonique/bcn_python">bcn for Python</a> and <a href="https://github.com/Techtonique/bcn">bcn for R</a> Boosted Configuration (neural) Networks for supervised learning. Read https://thierrymoudiki.github.io/blog/2022/07/21/r/misc/boosted-configuration-networks. &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/bcn"><img alt="Downloads" src="https://static.pepy.tech/badge/bcn" /></a></li>
+  <br>
+
+<li> <a href="https://github.com/Techtonique/teller">teller</a> Model-agnostic Statistical/Machine Learning explainability. Read https://thierrymoudiki.github.io/blog/2024/02/19/python/quasirandomizednn/explainableml/nnetsauce-dl-data. &nbsp; <a href="https://pepy.tech/project/the-teller">
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/the-teller" /></a> </li>
   <br>
 
 <li> <a href="https://github.com/Techtonique/querier">querier</a> A query language for Python Data Frames. Read https://thierrymoudiki.github.io/blog/2022/06/06/python/lsboost/explainableml/mlsauce/techtonique-workflow. &nbsp; <a href="https://pepy.tech/project/querier">
