@@ -54,6 +54,12 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/querier" /></a> </li>
   <br>
 
+<li> <a href="https://github.com/Techtonique/learningmachine_python">learningmachine for Python</a> and <a href="https://github.com/Techtonique/learningmachine">learningmachine for R</a>. Machine Learning with uncertainty quantification and interpretability. Read https://thierrymoudiki.github.io/blog/2024/04/01/python/learningmachine-python and https://thierrymoudiki.github.io/blog/2024/03/25/r/learningmachine
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/learningmachine" /> </li></a> </li>
+  <br>
+
 <li> <a href="https://github.com/Techtonique/esgtoolkit">esgtoolkit for R</a> and <a href="https://github.com/Techtonique/esgtoolkit_python">esgtoolkit for Python</a>  A toolkit for Monte Carlo Simulations in Finance, Economics, Insurance, Physics. Read https://thierrymoudiki.github.io/blog/2023/12/18/r/python/esgtoolkit-python.
   <br>
   <br>
@@ -65,13 +71,6 @@
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/rtopy" /> <a href="https://anaconda.org/conda-forge/rtopy"> <img src="https://img.shields.io/conda/dn/conda-forge/rtopy.svg" /> </a> </li>
   <br>
-
-<li> <a href="https://github.com/Techtonique/learningmachine_python">learningmachine for Python</a> and <a href="https://github.com/Techtonique/learningmachine">learningmachine for R</a>. Machine Learning with uncertainty quantification and interpretability. Read https://thierrymoudiki.github.io/blog/2024/04/01/python/learningmachine-python and https://thierrymoudiki.github.io/blog/2024/03/25/r/learningmachine
-  <br>
-  <br>
-  <img alt="Downloads" src="https://static.pepy.tech/badge/learningmachine" /> </li></a> </li>
-  <br>
-
 
 <li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
 <br>
