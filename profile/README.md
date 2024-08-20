@@ -75,4 +75,11 @@
 <li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
 <br>
 
+
+<li> <a href="https://github.com/thierrymoudiki/unifiedbooster">unifiedbooster</a>. Unified interface for Gradient Boosted Decision Trees algorithms. Read https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/unifiedbooster" /> </li></a> </li>
+  <br>
+
 </ul>
