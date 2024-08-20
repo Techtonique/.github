@@ -76,7 +76,7 @@
 <br>
 
 
-<li> <a href="https://github.com/thierrymoudiki/unifiedbooster">unifiedbooster</a>. Unified interface for Gradient Boosted Decision Trees algorithms. Read https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster
+<li> <a href="https://github.com/thierrymoudiki/unifiedbooster">unifiedbooster</a> Unified interface for Gradient Boosted Decision Trees algorithms. Read https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster
   <br>
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/unifiedbooster" /> </li></a> </li>
