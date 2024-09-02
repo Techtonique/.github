@@ -15,7 +15,7 @@
 <li> <a href="https://github.com/Techtonique/nnetsauce">nnetsauce for Python</a> and <a href="https://github.com/Techtonique/nnetsauce_r">nnetsauce for R</a> Statistical/Machine Learning using Randomized and Quasi-Randomized (neural) networks. Read https://thierrymoudiki.github.io/blog/#QuasiRandomizedNN. &nbsp; 
   <br>
   <br>
-  <a href="https://pepy.tech/project/nnetsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/nnetsauce" /></a> <a href="https://anaconda.org/conda-forge/nnetsauce"> <img src="https://anaconda.org/conda-forge/nnetsauce/badges/downloads.svg" /> </a> </li>
+  <a href="https://pepy.tech/project/nnetsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/nnetsauce" /></a> <a href="https://anaconda.org/conda-forge/nnetsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/nnetsauce.svg" /> </a> </li>
   <br>
 
 <li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
