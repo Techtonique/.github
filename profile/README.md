@@ -36,7 +36,7 @@
   <a href="https://pepy.tech/project/gpopt"><img alt="Downloads" src="https://static.pepy.tech/badge/gpopt" /></a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/bcn_python">bcn for Python</a> and <a href="https://github.com/Techtonique/bcn">bcn for R</a> Boosted Configuration (neural) Networks for supervised learning. Read https://thierrymoudiki.github.io/blog/2022/07/21/r/misc/boosted-configuration-networks. &nbsp; 
+<li> <a href="https://github.com/Techtonique/bcn_python">bcn for Python</a> and <a href="https://github.com/Techtonique/bcn">bcn for R</a> Boosted Configuration (neural) Networks for supervised learning. Read https://thierrymoudiki.github.io/blog/2022/07/21/r/misc/boosted-configuration-networks and https://www.researchgate.net/publication/380760578_Boosted_Configuration_neural_Networks_for_supervised_classification. &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/bcn"><img alt="Downloads" src="https://static.pepy.tech/badge/bcn" /></a></li>
