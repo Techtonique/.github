@@ -88,4 +88,11 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/glmnetforpython" /> </li></a> </li>
   <br>
 
+
+ <li> <a href="https://github.com/Techtonique/survivalist">survivalist</a> Survival analysis with Machine Learning and uncertainty quantification.
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/survivalist" /> </li></a> </li>
+  <br>
+  
 </ul>
