@@ -82,4 +82,10 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/unifiedbooster" /> </li></a> </li>
   <br>
 
+<li> <a href="https://github.com/thierrymoudiki/glmnetforpython">glmnet for python</a> Lasso or elastic-net regularization path for linear regression, logistic and multinomial regression models, poisson regression and the cox model. Read https://thierrymoudiki.github.io/blog/2024/11/18/python/r/GLMNet-post
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/glmnetforpython" /> </li></a> </li>
+  <br>
+
 </ul>
