@@ -88,17 +88,23 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/glmnetforpython" /> </li></a> </li>
   <br>
 
-
  <li> <a href="https://github.com/Techtonique/survivalist">survivalist</a> Model-agnostic Survival analysis with Machine Learning and uncertainty quantification.
   <br>
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/survivalist" /> </li></a> </li>
   <br>
 
-  <li> <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner</a> &nbsp; Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor. &nbsp;|&nbsp; <a href="https://pepy.tech/project/tisthemachinelearner"><img alt="Downloads" src="https://static.pepy.tech/badge/tisthemachinelearner" /></a></li>
+  <li> <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner</a> &nbsp; Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor. 
+  <br>
+  <br> <a href="https://pepy.tech/project/tisthemachinelearner"><img alt="Downloads" src="https://static.pepy.tech/badge/tisthemachinelearner" /></a></li>
+  <br>
   
 <li>
-  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. &nbsp;|&nbsp; <a href="https://pepy.tech/project/genbooster"><img alt="Downloads" src="https://static.pepy.tech/badge/genbooster" /></a>
+  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. 
+  <br>
+  <br> 
+  <a href="https://pepy.tech/project/genbooster"><img alt="Downloads" src="https://static.pepy.tech/badge/genbooster" /></a>
+  <br>
 </li>
   
 </ul>
