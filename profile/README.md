@@ -18,7 +18,7 @@
   <a href="https://pepy.tech/project/nnetsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/nnetsauce" /></a> <a href="https://anaconda.org/conda-forge/nnetsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/nnetsauce.svg" /> </a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares and `GenericBooster`: https://thierrymoudiki.github.io/blog/2024/10/06/python/r/genericboosting. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
+<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares and `GenericBooster`: https://thierrymoudiki.github.io/blog/2024/10/06/python/r/genericboosting and https://www.researchgate.net/publication/386212136_Scalable_Gradient_Boosting_using_Randomized_Neural_Networks. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/mlsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/mlsauce" /></a> <a href="https://anaconda.org/conda-forge/mlsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/mlsauce.svg" /> </a> </li>
