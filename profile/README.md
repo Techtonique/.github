@@ -100,7 +100,7 @@
   <br>
   
 <li>
-  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. 
+  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. See <a href="https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust">https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust</a>
   <br>
   <br> 
   <a href="https://pepy.tech/project/genbooster"><img alt="Downloads" src="https://static.pepy.tech/badge/genbooster" /></a>
