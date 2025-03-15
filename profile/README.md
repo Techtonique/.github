@@ -88,7 +88,7 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/glmnetforpython" /> </li></a> </li>
   <br>
 
- <li> <a href="https://github.com/Techtonique/survivalist">survivalist</a> Model-agnostic Survival analysis with Machine Learning and uncertainty quantification.
+ <li> <a href="https://github.com/Techtonique/survivalist">survivalist</a> Model-agnostic Survival analysis with Machine Learning and uncertainty quantification. See <a href="https://thierrymoudiki.github.io/blog/2025/02/12/r/R-agnostic-survival-analysis">https://thierrymoudiki.github.io/blog/2025/02/12/r/R-agnostic-survival-analysis</a>
   <br>
   <br>
   <img alt="Downloads" src="https://static.pepy.tech/badge/survivalist" /> </li></a> </li>
