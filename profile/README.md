@@ -94,7 +94,7 @@
   <img alt="Downloads" src="https://static.pepy.tech/badge/survivalist" /> </li></a> </li>
   <br>
 
-  <li> <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner</a> &nbsp; Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor. 
+  <li> <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner</a> &nbsp; Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor. See <a href="https://thierrymoudiki.github.io/blog/2025/02/17/python/r/tisthemllearner">https://thierrymoudiki.github.io/blog/2025/02/17/python/r/tisthemllearner</a>
   <br>
   <br> <a href="https://pepy.tech/project/tisthemachinelearner"><img alt="Downloads" src="https://static.pepy.tech/badge/tisthemachinelearner" /></a></li>
   <br>
