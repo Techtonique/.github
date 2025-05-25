@@ -42,6 +42,21 @@
   <a href="https://pepy.tech/project/bcn"><img alt="Downloads" src="https://static.pepy.tech/badge/bcn" /></a></li>
   <br>
 
+<li>
+  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. See <a href="https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust">https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust</a>
+  <br>
+  <br> 
+  <a href="https://pepy.tech/project/genbooster"><img alt="Downloads" src="https://static.pepy.tech/badge/genbooster" /></a>
+  <br>
+</li>
+<br>
+
+<li> <a href="https://github.com/thierrymoudiki/unifiedbooster">unifiedbooster</a> Unified interface for Gradient Boosted Decision Trees algorithms. Read https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster
+  <br>
+  <br>
+  <img alt="Downloads" src="https://static.pepy.tech/badge/unifiedbooster" /> </li></a> </li>
+  <br>
+
 <li> <a href="https://github.com/Techtonique/teller">teller</a> Model-agnostic Statistical/Machine Learning explainability. Read https://thierrymoudiki.github.io/blog/2024/02/19/python/quasirandomizednn/explainableml/nnetsauce-dl-data. &nbsp; <a href="https://pepy.tech/project/the-teller">
   <br>
   <br>
@@ -75,13 +90,6 @@
 <li> <a href="https://github.com/Techtonique/crossvalidation">crossvalidation</a> Generic R functions for cross-validation. Read https://thierrymoudiki.github.io/blog/2021/08/06/r/crossvalidation-svm-r. </li>
 <br>
 
-
-<li> <a href="https://github.com/thierrymoudiki/unifiedbooster">unifiedbooster</a> Unified interface for Gradient Boosted Decision Trees algorithms. Read https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster
-  <br>
-  <br>
-  <img alt="Downloads" src="https://static.pepy.tech/badge/unifiedbooster" /> </li></a> </li>
-  <br>
-
 <li> <a href="https://github.com/thierrymoudiki/glmnetforpython">glmnet for python</a> Lasso or elastic-net regularization path for linear regression, logistic and multinomial regression models, poisson regression and the cox model. Read https://thierrymoudiki.github.io/blog/2024/11/18/python/r/GLMNet-post
   <br>
   <br>
@@ -98,13 +106,5 @@
   <br>
   <br> <a href="https://pepy.tech/project/tisthemachinelearner"><img alt="Downloads" src="https://static.pepy.tech/badge/tisthemachinelearner" /></a></li>
   <br>
-  
-<li>
-  <a href="https://github.com/Techtonique/genbooster">genbooster</a> &nbsp; A fast gradient boosting and bagging (RandomBagClassifier, similar to RandomForestClassifier) implementation using Rust and Python. Any base learner can be employed. See <a href="https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust">https://thierrymoudiki.github.io/blog/2025/01/27/python/r/genbooster-rust</a>
-  <br>
-  <br> 
-  <a href="https://pepy.tech/project/genbooster"><img alt="Downloads" src="https://static.pepy.tech/badge/genbooster" /></a>
-  <br>
-</li>
-  
+    
 </ul>
