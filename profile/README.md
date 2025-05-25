@@ -18,16 +18,16 @@
   <a href="https://pepy.tech/project/nnetsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/nnetsauce" /></a> <a href="https://anaconda.org/conda-forge/nnetsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/nnetsauce.svg" /> </a> </li>
   <br>
 
-<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares and `GenericBooster`: https://thierrymoudiki.github.io/blog/2024/10/06/python/r/genericboosting and https://www.researchgate.net/publication/386212136_Scalable_Gradient_Boosting_using_Randomized_Neural_Networks. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
-  <br>
-  <br>
-  <a href="https://pepy.tech/project/mlsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/mlsauce" /></a> <a href="https://anaconda.org/conda-forge/mlsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/mlsauce.svg" /> </a> </li>
-  <br>
-
 <li> <a href="https://github.com/Techtonique/ahead_python">ahead for Python</a>, <a href="https://github.com/Techtonique/ahead">ahead for R</a> and <a href="https://github.com/Techtonique/Ahead.jl">ahead for Julia</a> Univariate and Multivariate time series forecasting with uncertainty quantification (including simulation). Home of:  <a href="https://www.researchgate.net/publication/378877579_ahead_Univariate_and_multivariate_time_series_forecasting_with_uncertainty_quantification_including_simulation_approaches" /> <code>dynrm</code> and <code>ridge2</code> </a>. Read https://thierrymoudiki.github.io/blog/2024/02/26/python/r/julia/ahead-v0100. &nbsp; 
   <br>
   <br>
   <a href="https://pepy.tech/project/ahead"><img alt="Downloads" src="https://static.pepy.tech/badge/ahead" /></a> <a href="https://anaconda.org/conda-forge/ahead_python"><img alt="Downloads" src="https://img.shields.io/conda/dn/conda-forge/ahead_python.svg" /></a> </li>
+  <br>
+
+<li> <a href="https://github.com/Techtonique/mlsauce">mlsauce for Python</a> and <a href="https://github.com/Techtonique/mlsauce_r">mlsauce for R</a> Miscellaneous Statistical/Machine Learning stuff. Home of LSBoost: https://www.researchgate.net/publication/346059361_LSBoost_gradient_boosted_penalized_nonlinear_least_squares and `GenericBooster`: https://thierrymoudiki.github.io/blog/2024/10/06/python/r/genericboosting and https://www.researchgate.net/publication/386212136_Scalable_Gradient_Boosting_using_Randomized_Neural_Networks. Read https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification. &nbsp; 
+  <br>
+  <br>
+  <a href="https://pepy.tech/project/mlsauce"><img alt="Downloads" src="https://static.pepy.tech/badge/mlsauce" /></a> <a href="https://anaconda.org/conda-forge/mlsauce"> <img src="https://img.shields.io/conda/dn/conda-forge/mlsauce.svg" /> </a> </li>
   <br>
 
 <li> <a href="https://github.com/Techtonique/GPopt">GPopt</a> Bayesian optimization using Gaussian Process Regression (useful for Machine learning hyperparameter tuning). Read https://thierrymoudiki.github.io/blog/2024/01/29/python/gpopt-new. &nbsp; 
