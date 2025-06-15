@@ -106,5 +106,10 @@
   <br>
   <br> <a href="https://pepy.tech/project/tisthemachinelearner"><img alt="Downloads" src="https://static.pepy.tech/badge/tisthemachinelearner" /></a></li>
   <br>
+
+  <li> <a href="https://github.com/Techtonique/mlreserving">mlreserving</a> &nbsp; Machine learning-based probabilistic reserving model for (longitudinal data) insurance claims. See [https://thierrymoudiki.github.io/blog/2025/06/06/python/ml-reserve-advanced-models](https://thierrymoudiki.github.io/blog/2025/06/06/python/ml-reserve-advanced-models)
+  <br>
+  <br> <a href="https://pepy.tech/project/mlreserving"><img alt="Downloads" src="https://pepy.tech/badge/mlreserving" /></a></li>
+  <br>
     
 </ul>
