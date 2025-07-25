@@ -114,7 +114,7 @@
 
   <li> <a href="https://github.com/Techtonique/cybooster">cybooster</a> &nbsp; A high-performance generic gradient boosting (any based learner can be used, and is randomized at each boosting iteration) library designed for classification and regression tasks (can also be used in conjunction with [nnetsauce](https://github.com/Techtonique/nnetsauce)'s `MTS` for time series forecasting). It is built on Cython (that is, C) for speed and efficiency. This version will also be more GPU friendly, thanks to JAX, making it suitable for large datasets
   <br>
-  <br> <a href="https://pepy.tech/project/mlreserving"><img alt="Downloads" src="https://pepy.tech/badge/mlreserving" /></a></li>
+  <br> <a href="https://pepy.tech/project/cybooster"><img alt="Downloads" src="https://pepy.tech/badge/cybooster" /></a></li>
   <br>
 
     
