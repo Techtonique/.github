@@ -117,5 +117,10 @@
   <br> <a href="https://pepy.tech/project/cybooster"><img alt="Downloads" src="https://pepy.tech/badge/cybooster" /></a></li>
   <br>
 
+  <li> <a href="https://github.com/Techtonique/synthe">synthe</a> &nbsp; Synthetic data generation
+  <br>
+  <br> <a href="https://pepy.tech/project/synthe"><img alt="Downloads" src="https://pepy.tech/badge/synthe" /></a></li>
+  <br>
+
     
 </ul>
