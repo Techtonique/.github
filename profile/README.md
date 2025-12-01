@@ -191,7 +191,8 @@
   <br>
 
   <li>
-    <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner</a> &nbsp;
+    <a href="https://github.com/Techtonique/tisthemachinelearner">tisthemachinelearner in Python</a> &nbsp;
+    <a href="https://github.com/Techtonique/tisthemachinelearner_r">tisthemachinelearner in R</a> &nbsp;
     Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor.
     See https://thierrymoudiki.github.io/blog/2025/02/17/python/r/tisthemllearner
     <br><br>
