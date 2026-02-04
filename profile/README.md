@@ -230,4 +230,11 @@
 
   <br>
 
+  <li>
+    <a href="https://github.com/Techtonique/unifiedml">unifiedml</a> &nbsp;
+    A Unified Machine Learning Interface for R
+    <br><br>
+    <a href="https://cranlogs.r-pkg.org/badges/grand-total/unifiedml"><img alt="Downloads" src="https://cranlogs.r-pkg.org/badges/grand-total/unifiedml" /></a>
+  </li>
+
 </ul>
