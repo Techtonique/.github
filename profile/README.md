@@ -58,8 +58,8 @@
 
   <li>
     <a href="https://github.com/Techtonique/GPopt">GPopt</a>
-    Bayesian optimization using Gaussian Process Regression (useful for Machine learning hyperparameter tuning).
-    Read https://thierrymoudiki.github.io/blog/2024/01/29/python/gpopt-new. &nbsp;
+    Bayesian optimization using Gaussian Process Regression (useful for Machine learning hyperparameter tuning), and not only.
+    Read https://thierrymoudiki.github.io/blog/2024/01/29/python/gpopt-new. or https://thierrymoudiki.github.io/blog/2024/12/09/python/bayesconfoptim &nbsp;
     <br><br>
     <a href="https://pepy.tech/project/gpopt"><img alt="Downloads" src="https://static.pepy.tech/badge/gpopt" /></a>
   </li>
