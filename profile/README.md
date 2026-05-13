@@ -237,4 +237,11 @@
     <a href="https://cranlogs.r-pkg.org/badges/grand-total/unifiedml"><img alt="Downloads" src="https://cranlogs.r-pkg.org/badges/grand-total/unifiedml" /></a>
   </li>
 
+  <li>
+    <a href="https://github.com/Techtonique/mlS3">mlS3</a> &nbsp;
+    S3 Machine Learning Interface for R 
+    <br><br>
+    <a href="https://cranlogs.r-pkg.org/badges/grand-total/mlS3"><img alt="Downloads" src="https://cranlogs.r-pkg.org/badges/grand-total/mlS3" /></a>
+  </li>
+
 </ul>
